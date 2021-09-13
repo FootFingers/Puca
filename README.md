@@ -145,6 +145,9 @@ Add a small amount of more solder onto the top of socket pressing against the pa
 
 ## Underglow LED's (Optional)
 
+This is an optional step and is only required if you wish to have underglow lighting on your Púca. To do this, simply solder the eight SMD LED's into their pads, taking note of the orientation of the LED. One of the corners has a triangle / is tabbed, and should be in the **opposite** corner to where you see the number one, see image below:
+  
+  
 
 
 ## Troubleshooting
