@@ -45,6 +45,11 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 [![](images/pucaVid.PNG)](https://www.youtube.com/watch?v=pTuVGP6S-aw&t=377s)
 
 
+## Vial Firmware
+Vial Firmware can be found here: https://github.com/Sleepdealr/vial-qmk
+
+QMK is currently being merged and will be available in QMK Toolbox
+
 ## Getting Started
 Assuming you have all of the required parts listed above, you can start the process of building your Púca. 
 
