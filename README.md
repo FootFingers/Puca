@@ -37,7 +37,7 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 | Name            | Quantity     |
 |-----------------|--------------|
 | OLED Module     | 1            |
-| WS2821B LED's   | 8            | 
+| WS2812B LED's   | 8            | 
 | Rubber Feet     | 4           |
 
 
