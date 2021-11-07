@@ -64,7 +64,7 @@ Begin by plugging your ProMicro into your PC / laptop with an appropriate cable.
 
 ## OLED
 
-If you intend on using the supplied OLED display with your Púca, then you will need to bridge four pads. These pads are located under the pro-micro, so it is recommended to bridge these first. Apply solder to one side of the pad and then drag across to the other, the finished product should look as follows:
+If you intend on using the supplied OLED display with your Púca, then you will need to bridge four pads. The OLED will not work unless these pads are bridged. These pads are located under the pro-micro, so it is recommended to bridge these first. Apply solder to one side of the pad and then drag across to the other, the finished product should look as follows:
 
 ![briged oled](images/bridgedOLED.PNG)
 
