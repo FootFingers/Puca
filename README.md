@@ -57,9 +57,6 @@ The PCB for v1.3 is not reversible, which means that it must be used in its corr
 
 ![](images/PCB.PNG)
 
-The microctroller also needs to be in the correct orientation, with the components facing down in the case of the supplied ProMicro or optional Elite-C/Bit-C.
-
-![](images/proMicroOrientation.jpg)
 
 ## Testing your Controller
 
@@ -77,7 +74,11 @@ Close-up example of briged pads from CRKBD:
   
   
 ## Pro Micro / Elite-C
-  
+
+The microctroller also needs to be in the correct orientation, with the components facing down in the case of the supplied ProMicro or optional Elite-C/Bit-C.
+
+![](images/proMicroOrientation.jpg)
+
 We will begin by soldering the microcontroller. We perform this now to ensure that the PCB and controller are functioning correctly, which will also help narrow the cause of any issues that could potentially occur here: most commonly due to incorrect soldering.
   
 First, we will solder the ProMicro in place. This can be made hotswap using either millmax sockets or a ProMicro hotswap socket kit and either pins or diode legs. For this guide, we will assume that you have the Púca base kit, and will use parts available from there. Place the pins into the PCB as seen below:
