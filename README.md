@@ -46,7 +46,7 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 
 
 ## Vial Firmware
-
+Vial Firmware is available in the Firmware Folder. https://github.com/FootFingers/Puca/tree/main/Firmware 
 
 QMK is currently being merged and will be available in QMK Toolbox
 
