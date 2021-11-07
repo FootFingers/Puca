@@ -48,9 +48,13 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 ## Getting Started
 Assuming you have all of the required parts listed above, you can start the process of building your Púca. 
 
-The PCB for v1.3 is not reversible, which means that it must be used in its correct orientation. The correct layout can be seen below, but is essentially the side with the diodes and the Púca logo on the right. The microctroller also needs to be in the correct orientation, with the components facing down in the case of the supplied ProMicro or optional Elite-C/Bit-C.
+The PCB for v1.3 is not reversible, which means that it must be used in its correct orientation. The correct layout can be seen below, but is essentially the side with the diodes and the Púca logo on the right. 
 
-<Insert image of Púca PCB orientation>
+![](images/PCB.PNG)
+
+The microctroller also needs to be in the correct orientation, with the components facing down in the case of the supplied ProMicro or optional Elite-C/Bit-C.
+
+![](images/proMicroOrientation.jpg)
 
 ## Testing your Controller
 
@@ -186,11 +190,17 @@ Once the switches are in place now is the time to add the screws and standoffs. 
   
 If you haven't already done so, now is the time to attach the knob to the encoder. Then continue on and peel off the protective layer of acrylic from the guard and screw into place also. Finish up the build with the included rubber bumpons in each of the four corners of your base plate to keep your Puca still and secure on your desk.
   
+Have Fun!
+  
+![](images/builtKits.PNG)
 ## Troubleshooting
 
 ### Key presses not registering
   
-This can be down to one of three common causes.
+This can be down to a number of common causes.
 1) Diode is in the wrong orientation
 2) ProMicro does not have a strong soldered connection to the PCB
 3) Switch legs are not sitting in the hotswap socket correctly 
+4) Diode is not soldered correctly
+  
+Check each of the above to troubleshoot and identify the issue.
