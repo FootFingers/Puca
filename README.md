@@ -22,19 +22,23 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 |-----------------|--------------|
 | PCB             | 1            |
 | Diodes          | 23           |
+| Hotswap Sockets          | 19-22           |
 | Reset Switch    | 1            |
 | Pro Micro  / Elite-C     | 1          |
 | Rotary Encoder  | 1            |
 | Plate Botton    | 1            |
 | Plate Top       | 1            |
 | Acrylic Guard   | 1            |
-| Standoffs and screws    | ......            |
+| M2 Standoffs     | 6            |
+| M2 Screws    | 12            |
+
 
 ### Optional
 | Name            | Quantity     |
 |-----------------|--------------|
 | OLED Module     | 1            |
 | WS2821B LED's   | 8            | 
+| Rubber Feet     | 4           |
 
 
 ## A video guide can be found here: 
