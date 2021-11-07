@@ -176,7 +176,11 @@ Place the rotary encoder into place. It will only fit in one orientation: the si
   
   
 ## Finishing up
- 
+All that is left is to assemble your newly completed kit. If you intend to use a layout that requires stabilizers, now is the time to screw them in. Next, First put a switch into the north side of the top plate, and another along the south edge. This will then be pushed into the PCB, and will provde support while the rest of your switches are pushed into place. Continue to populate all the slots required for your layout, making sure to check that the switch pins are straight before pushing them in to the PCB. 
+  
+Once the switches are in place now is the time to add the screws and standoffs. First, screw in the two standoffs on the right edge of the PCB, these will be used for supporting the acrlic guard. Next, screw in the four remaining standoffs into the top plate, and then orient the bottom plate so the screw holes line up, before screwing in the base plate.
+  
+If you haven't already done so, now is the time to attach the knob to the encoder. Then continue on and peel off the protective layer of acrylic from the guard and screw into place also. Finish up the build with the included rubber bumpons in each of the four corners of your base plate to keep your Puca still and secure on your desk.
   
 ## Troubleshooting
 
