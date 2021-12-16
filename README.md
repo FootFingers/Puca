@@ -1,5 +1,7 @@
 # Púca Build Guide
 
+![](images/puca_cover.png)
+
 ## Contents
 
 - Required Parts
