@@ -211,4 +211,8 @@ This can be down to a number of common causes.
 3) Switch legs are not sitting in the hotswap socket correctly 
 4) Diode is not soldered correctly
   
+### Underglow Not Working
+  
+The underglow LEDs are chained together, which means that if an LED in the chain is not correctly soldered, LEDs later in the chain also will not function. If you have any LEDs coming in, look through to make sure they each have a strong connection, if you have **no** LEDs turning on at all, it may be related to the first LED in the chain, located directly underneath the controller.
+  
 Check each of the above to troubleshoot and identify the issue.
