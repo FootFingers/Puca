@@ -91,7 +91,13 @@ We will then solder these in place. It is recommended to use a small piece of ma
   
 ![](images/pinTape.PNG)
   
-Next, place your pro-micro / elite-c **face down**. The orientation here is extremely important for two reasons; Firstly, this provides a lower profile which allow the OLED and acrylic guard to be placed closer to the PCB. Secondly, it just won't work due to the pad placement. Make sure the orientation is correct, with the components facing downward, and the back of the pro-micro PCB visible. If using a Bit-C controller you will need to provide a small amount of space between the usb-c port and the board, please refer to the video linked above for steps on this. It should look like the image below:
+Next, place your pro-micro / elite-c **face down**. The orientation here is extremely important for two reasons; Firstly, this provides a lower profile which allow the OLED and acrylic guard to be placed closer to the PCB. Secondly, it just won't work due to the pad placement. Make sure the orientation is correct, with the components facing downward, and the back of the pro-micro PCB visible. 
+  
+| ⚠️ WARNING |
+| ------- |
+|If using a Bit-C controller you will need to provide a small amount of space between the usb-c port and the board, please refer to the video linked above for steps on this. |
+
+It should look like the image below:
   
 <Insert image of correct mcu placement>
 
