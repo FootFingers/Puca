@@ -19,3 +19,5 @@ FFKeebs provide these files as is and does not accept any responsibility for any
 You are free to modify and use these files either individually or commercially. All responsibility is on the user of these files to ensure they are correct with their manufacturer. 
 
 This clause may be updated at any time. The latest version available will apply regardless of which version the files were obtained with.
+
+For further information please see the License file. 
