@@ -62,7 +62,7 @@ The PCB for v1.3 is not reversible, which means that it must be used in its corr
 
 ## Testing your Controller
 
-Begin by plugging your ProMicro into your PC / laptop with an appropriate cable. If you haven't already, download the Púca firmware file. Then open QMK Toolbox, select the Púca Firmware file from the dropdown menu and short the reset and ground pads. This should auto-detect in QMK Toolbox, and allow you to click 'flash'. Some output will be displayed on screen, and you will be prompted once complete.
+Begin by plugging your ProMicro into your PC / laptop with an appropriate cable. If you haven't already, download the Púca firmware file. Then open QMK Toolbox, select the Púca Firmware file from the dropdown menu and short the reset and ground pads. This should auto-detect in QMK Toolbox, and allow you to click 'flash'. Some output will be displayed on screen, and you will be prompted once complete. Keep in mind that if using a promicro controller, the usb ports are fragile and too much force will break them.
 
 ## OLED
 
