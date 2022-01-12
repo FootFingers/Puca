@@ -44,7 +44,7 @@ Below are a list of all parts for building a Púca Pad. Optional items are liste
 
 
 ## A video guide can be found here: 
-[![](images/pucaVid.PNG)](https://www.youtube.com/watch?v=pTuVGP6S-aw&t=377s)
+[![](images/pucaVid.PNG)](https://youtu.be/pTuVGP6S-aw)
 
 
 ## Vial Firmware
