@@ -14,6 +14,10 @@
 - OLED
 - Hotswap Sockets
 
+## Availability:
+
+- Europe: [FFKeebs](https://FFKeebs.com)
+- North America: [OmegaKeys](https://OmegaKeys.ca)
 
 ## Required Parts
 
