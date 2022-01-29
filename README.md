@@ -91,7 +91,7 @@ First, we will solder the ProMicro in place. This can be made hotswap using eith
 
 <Insert image of pins placed into PCB>
   
-We will then solder these in place. It is recommended to use a small piece of masking tape to hole the pins in place during this process to ensure it is kept flat.
+We will then solder these in place. It is recommended to use a small piece of masking tape to hold the pins in place during this process to ensure it is kept flat.
   
 ![](images/pinTape.PNG)
   
