@@ -215,6 +215,8 @@ If you haven't already done so, now is the time to attach the knob to the encode
 Have Fun!
   
 ![](images/builtKits.PNG)
+![](images/puca_top.jpg)
+  
 ## Troubleshooting
 
 ### Key presses not registering
