@@ -59,7 +59,7 @@ QMK is currently being merged and will be available in QMK Toolbox
 ## Getting Started
 Assuming you have all of the required parts listed above, you can start the process of building your Púca. 
 
-The PCB for v1.3 is not reversible, which means that it must be used in its correct orientation. The correct layout can be seen below, but is essentially the side with the diodes and the Púca logo on the right. 
+The PCB is not reversible. The correct layout can be seen below, but is essentially the side with the diodes and the Púca logo on the right. 
 
 ![](images/PCB.PNG)
 
