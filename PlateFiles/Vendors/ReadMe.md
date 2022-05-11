@@ -12,3 +12,5 @@ These sheets provide the following units:
  - 69 Acrylic Guards
  
 Top plates have not been provided here due to switch compatibility issues when using acrylic. If they are required the individual files can be found in the ![PlateFiles directory](https://github.com/FootFingers/Puca/tree/main/PlateFiles).
+
+If looking for the gerbers file for FR4 plates, they can be found in the [Plate Files](https://github.com/FootFingers/Puca/tree/main/PlateFiles) directory.
