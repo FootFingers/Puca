@@ -10,6 +10,8 @@ A fourth file is also provided which includes both top and bottom plates, as wel
 
 Also, the top plate switch cutouts are 14.05mm - which means that for some materials like acrylic there will be compatibility issues with certain switches. You may want to modify this to 13.75mm in those instances.
 
+Gerbers have also been added if you would like to get your own FR4 plates cut, in which case please refer to the sizing provided above to make sure they are correct.
+
 ## Licensing
 
 By using these provided files you agree to the below clause:
